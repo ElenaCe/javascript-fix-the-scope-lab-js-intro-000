@@ -27,6 +27,3 @@ function funkyFunction() {
 var theFunk = funkyFunction(f)
 theFunk()
 
-function theFun(funkyFunction){
-   x()
-}
